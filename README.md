@@ -9,7 +9,7 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/?username=JoaoGabrielRLP&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 </div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielRLP&layout=compact)](https://github.com/JoaoGabrielRLP/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielRLP&layout=compact)](https://github.com/JoaoGabrielRLP/JoaoGabrielRLP/github-readme-stats)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Joao-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
