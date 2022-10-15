@@ -1,11 +1,14 @@
-## Olá, sou João Gabriel, Bem-vindo ao meu perfil 😁
+### Olá, meu nome é João Gabriel
+
+- 🔭 Hoje procuro trabalhar com desenvolvimento web
+- 🌱 Estudando: Javascript, mas programação em geral
+- 📫 Me contate por: joojgaag@gmail.com
 
  <div>
    <a href="https://github.com/JoaoGabrielRLP">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielRLP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielRLP&layout=compact&include_all_commits=true&langs_count=8&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielRLP&layout=compact&langs_count=10&theme=tokyonight"/>
 
-</div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Joao-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Joao-css3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -14,10 +17,10 @@
     <img align="center" alt="Joao-php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
     <img align="center" alt="Joao-mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
- 
+
  <br>
- 
-   ##
+  
+  ##
   
 <div>
   <a href="https://wa.me/5551997061518" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -26,9 +29,7 @@
 </div>  
 
   ##
- 
- 
-  ![Snake animation](https://github.com/JoaoGabrielRLP/JoaoGabrielRLP/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+  
+   ![Snake animation](https://github.com/JoaoGabrielRLP/JoaoGabrielRLP/blob/output/github-contribution-grid-snake.svg)
+  
   
