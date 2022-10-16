@@ -2,7 +2,7 @@
 
 - 🔭 Hoje procuro trabalhar com desenvolvimento web
 - 🌱 Estudando: Javascript, mas programação em geral
-- 📫 Me contate por: joojgaag@gmail.com ou joaogbriellopespereira@gmail.com
+- 📫 Me contate por: joojgaag@gmail.com ou joaogbriellopespereira@hotmail.com
 
  <div>
    <a href="https://github.com/JoaoGabrielRLP">
