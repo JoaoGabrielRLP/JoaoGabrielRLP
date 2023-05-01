@@ -1,7 +1,7 @@
 ### Olá, meu nome é João Gabriel
 
-- 🔭 Hoje procuro trabalhar com desenvolvimento web
-- 🌱 Estudando: Javascript, mas programação em geral
+- 🔭 trabalhando como analista de suporte computacional, gosto muito de desenvolvimento web e programação em geral
+- 🌱 Estudando: ciência da computação na Universidade do extremo sul catarinense
 - 📫 Me contate por: joojgaag@gmail.com ou joaogbriellopespereira@hotmail.com
 <br>
 
