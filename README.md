@@ -1,7 +1,7 @@
 ### Olá, meu nome é João Gabriel
 
 - 🔭 trabalhando como analista de suporte computacional, gosto muito de desenvolvimento web e programação em geral
-- 🌱 Estudando: ciência da computação na Universidade do extremo sul catarinense
+- 🌱 Estudando: sistemas de informação na Universidade do extremo sul catarinense
 - 📫 Me contate por: <a href="mailto:joojgaag@gmail.com" target="_blank">joojgaag@gmail.com </a> ou <a href="mailto:joaogbriellopespereira@hotmail.com" target="_blank"> joaogbriellopespereira@hotmail.com</a>
 <br>
 
