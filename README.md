@@ -36,9 +36,6 @@
 </div>  
 
   ##
-
-   - name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.3.0
   
    ![Snake animation](https://github.com/JoaoGabrielRLP/JoaoGabrielRLP/blob/output/github-contribution-grid-snake.svg)
 
