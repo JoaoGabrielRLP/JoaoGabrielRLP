@@ -37,7 +37,7 @@
 
   ##
   
-   ![snake gif](https://github.com/JoaoGabrielRLP/JoaoGabrielRLP/blob/output/github-snake.svg)
+   ![snake gif](https://github.com/JoaoGabrielRLP/JoaoGabrielRLP/blob/output/github-snake-dark.svg)
 
   
   
