@@ -6,8 +6,8 @@
 <br>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielRLP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielRLP&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats-tan-alpha-81.vercel.app/api?username=JoaoGabrielRLP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   
+  <img height="180" src="https://github-readme-stats-tan-alpha-81.vercel.app/api/top-langs/?username=JoaoGabrielRLP&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
  
 <br>
@@ -49,6 +49,3 @@
   <img src="https://github.com/JoaoGabrielRLP/JoaoGabrielRLP/blob/output/github-snake-dark.svg" alt="snake gif">
 
 </div>
-  
-  
-  
